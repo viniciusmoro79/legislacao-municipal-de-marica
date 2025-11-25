@@ -390,7 +390,9 @@ XV - é vedada a vinculação ou equiparação de vencimento, para o efeito de r
 
 XVI - os acréscimos pecuniários percebidos pelo funcionário público não serão computados nem acumulados, para fins de concessão de acréscimos ulteriores, sob o mesmo título ou idêntico fundamento;
 
-XVII - o funcionário público poderá gozar licença especial e férias na forma da Lei ou de ambas dispor, sob a forma de direito de contagem em dobro, para efeito de aposentadoria; **(Nova Redação dada pela Emenda nº 013, de 26.09.97)**
+~~XVII -~~
+
+XVII - o funcionário público poderá gozar licença especial e férias na forma da Lei ou de ambas dispor, sob a forma de direito de contagem em dobro, para efeito de aposentadoria; [(Redação dada pela Emenda nº 13, de 1997)](/legislatura-1997-2000/1997/lei-organica/ELO-00013-1997.md)
 
 XVIII - os vencimentos dos funcionários públicos são irredutíveis e a remuneração observará o que dispõe os incisos XIII e XIV deste artigo;
 
@@ -438,7 +440,7 @@ XXVII - os funcionários da administração pública direta, colocados à dispos
 
 **§ 8º** É vedada ao poder Público, direta ou indiretamente, a publicidade de qualquer natureza, fora do território do Município, para fins de propaganda governamental.
 
-**Art. 54.** A nomeação para cargo de Provimento em Comissão, assim criados por Lei, dar-se-á nos termos do artigo 37, II, "in fine" da Constituição Federal e a Constituição Estadual, artigo 77 inciso VIII. (**Nova Redação dada pela Emenda nº 010, de 31.01.97)**
+**Art. 54.** A nomeação para cargo de Provimento em Comissão, assim criados por Lei, dar-se-á nos termos do artigo 37, II, "in fine" da Constituição Federal e a Constituição Estadual, artigo 77 inciso VIII. [(Redação dada pela Emenda à Lei Orgânica nº 10, de 1997)](/legislatura-1997-2000/1997/lei-organica/ELO-00010-1997.md)
 
 **Art. 55.** Qualquer que seja a "causa mortis" do funcionário público, será de 100% (cem por cento) da remuneração total o valor mínimo da pensão devida a seus dependentes, na forma da lei.
 
@@ -473,35 +475,67 @@ XXVII - os funcionários da administração pública direta, colocados à dispos
 **Art. 60.** Aos funcionários públicos civis ficam assegurados, além de outros que a lei estabelecer, os seguintes direitos:
 
 I - salário mínimo;
+
 II - irredutibilidade do salário;
+
 III - garantia de salário, nunca inferior ao mínimo, para os que percebem remuneração variável;
+
 IV - décimo terceiro salário com base na remuneração integral ou no valor da aposentadoria;
+
 V - remuneração do trabalho noturno superior à do diurno;
+
 VI - remuneração do serviço extraordinário superior, no mínimo, em cinqüenta por cento à do normal;
+
 VII - salário-família para os seus dependentes;
+
 VIII - duração do trabalho normal não superior a oito horas diárias a quarenta semanais, facultada a compensação de horários;
-IX - incidência de Gratificação Adicional por tempo de serviço sobre o valor do vencimento; (**Nova Redação dada pela Emenda nº 011, de 31.01.97**)
+
+~~IX -~~
+
+IX - incidência de Gratificação Adicional por tempo de serviço sobre o valor do vencimento; [(Redação dada pela Emenda à Lei Orgênica nº 11, de 1997)](/legislatura-1997-2000/1997/lei-organica/ELO-00011-1997.md)
+
 X - repouso semanal remunerado, preferencialmente aos domingos;
+
 XI - gozo de férias anuais remuneradas, com, pelo menos, um terço a mais do que o salário normal;
+
 XII - licença à gestante, sem prejuízo de emprego e do salário, com a duração de cento e vinte dias;
+
 XIII - licença paternidade, nos termos fixados em lei;
+
 XIV - licença especial para os adotantes, nos termos fixados em lei;
+
 XV - proteção de mercado de trabalho da mulher, mediante incentivos específicos, nos termos da lei;
+
 XVI - redução dos riscos inerentes ao trabalho, por meio de normas de saúde, higiene e segurança;
+
 XVII - indenização em caso de acidentes de trabalho, na forma da lei;
+
 XVIII - redução de carga horária e adicional de remuneração para as atividades penosas, insalubres ou perigosas, na forma da lei;
+
 XIX - proibição de diferença de salários, de exercício de funções e de critérios de admissão por motivo de sexo, idade, etnia ou estado civil;
+
 XX - seguridade social, através da contribuição do Tesouro Municipal contribuição dos funcionários, visando a dar cobertura aos riscos a que está sujeito o funcionário e a sua família, garantindo:
+
 a) meios de subsistência nos eventos de doença, invalidez, velhice, acidentes em serviço, inatividade, falecimento e reclusão;
+
 b) proteção à maternidade, à adoção, à paternidade e assistência à saúde;
+
 XXI - redução de cinqüenta por cento da carga horária de trabalho do funcionário municipal, responsável legal por portador de necessidades especiais que requeira atenção permanente;
+
 XXII - o de relotação aos membros do magistério público, no caso de mudança de residência, observados os critérios de instância estabelecidos em lei;
+
 XXIII - aos membros do magistério é assegurado as gratificações de regência de classe e de difícil acesso, na forma da lei;
+
 XXIV - garantia de vencimentos proporcionais à extensão e a complexidade do trabalho, nunca inferior ao vencimento mínimo profissional, na forma do Plano de Carreira;
+
 XXV - gratificação especial de nível superior ou técnico aos funcionários ocupantes de cargos para cujo provimento e desempenho seja exigido diploma de curso superior técnico, equiparando a esses últimos os motoristas, tratoristas, operadores de máquinas pesadas e artífices especializados, na forma da lei complementar;
+
 XXVI - participação na composição dos órgãos de direção e deliberação das instituições de previdência e assistência social do Município;
+
 XXVII - ao Grupo Fisco, será conferida a gratificação de produtividade fiscal, na forma da lei;
+
 XXVIII - Vale transporte, na forma da lei;
+
 XIX - fornecimento, de lanche, contendo, café, leite, pão e manteiga aos trabalhadores dos serviços essenciais de Educação, Saúde e Limpeza Urbana que chegarem ao local de trabalho até 15 (quinze) minutos antes do início de sua jornada.
 
 **Art. 61.** É garantido ao funcionário público o direito a livre associação sindical, observado, no que couber, o disposto no artigo 8º da Constituição Federal.
@@ -665,9 +699,9 @@ IV - pela Comissão Representativa da Câmara, conforme previsto no art. 79, V d
 
 **§ 6º** O Regimento Interno disciplinará a palavra de representantes populares na tribuna da Câmara durante as sessões.
 
-**Art. 73.** (**Suprimido pela Emenda nº 021, de 15.12.99**)
+**Art. 73.** [(Suprimido pela Emenda à Lei Orgânica nº 21, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00021-1999.md)
 
-**Parágrafo Único.** (**Suprimido pela Emenda nº 021, de 15.12.99**)
+**Parágrafo Único.** [(Suprimido pela Emenda à Lei Orgânica nº 21, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00021-1999.md)
 
 #### Seção II - Das Atribuições da Câmara Municipal
 
@@ -710,43 +744,83 @@ XVII - autorização para assinatura de qualquer natureza com outros municípios
 **Art. 75.** É da competência exclusiva da Câmara Municipal:
 
 I - eleger os membros de sua Mesa Diretora:
+
 II - elaborar o Regimento Interno;
+
 III - organizar os serviços administrativos internos e prover os cargos respectivos;
+
 IV - propor a criação ou extinção dos cargos dos serviços administrativos internos e a fixação dos respectivos vencimentos, observados os parâmetros estabelecidos na lei de diretrizes orçamentárias e no artigo 53, XIII desta Lei Orgânica;
+
 V - conceder licença ao Prefeito e ao Vice-Prefeito a ausentarem-se do Município, quando a ausência exceder a quinze dias;
+
 VI - conceder licença ao Prefeito, ao Vice-Prefeito e aos Vereadores;
+
 VII - exceder a fiscalização contábil, financeira e orçamentária do Município, mediante controle externo;
+
 VIII - tomar e julgar as contas do Prefeito, deliberando sobre o parecer do Tribunal de Contas do Estado no prazo máximo de sessenta dias de seu recebimento;
+
 IX - decretar a perda do mandato do Prefeito e dos Vereadores, nos casos indicados na Constituição Federal, nesta Lei Orgânica e na Legislação Federal aplicável;
+
 X - autorizar a realização de empréstimos ou de crédito interno ou externo de qualquer natureza, de interesse do Município;
+
 XI - proceder à tomada de contas do Prefeito, através de comissão especial, quando não apresentadas à Câmara, dentro de 60 (sessenta) dias, após a abertura da sessão legislativa seguinte;
+
 XII - estabelecer e mudar temporariamente o local de suas reuniões;
+
 XIII - ouvir Secretários do Município ou autoridades equivalentes, quando, por sua iniciativa e mediante entendimento prévio com a Mesa, comparecer à Câmara Municipal para expor assunto de relevância da Secretaria ou dos órgãos da administração de que forem titulares;
+
 XIV - deliberar sobre o adiamento e a suspensão de suas reuniões;
+
 XV - criar comissões parlamentares de inquérito sobre fato determinado e com prazo certo, mediante requerimento de um terço de seus membros;
+
 XVI - conceder título de cidadão honorário ou conferir homenagens a pessoas que, reconhecidamente, tenham prestado relevantes serviços ao Município ou nele se tenham destacado pela atuação exemplar na vida pública e particular, mediante proposta pelo voto de 2/3 (dois terços) dos membros da Câmara;
+
 XVII - solicitar a intervenção do Estado no Município;
+
 XVIII - processar e julgar o Prefeito nas infrações político-administrativas, bem como pronunciar-se nos crimes de responsabilidade;
+
 XIX - fiscalizar e controlar os atos do Poder Executivo, incluídos os da Administração indireta;
+
 XX - fixar, observado o que dispõe o artigo 55, XXIII e 126 desta Lei Orgânica, para cada exercício financeiro, a remuneração do Prefeito, Vice-Prefeito, dos Secretários Municipais e dos Vereadores;
+
 XXI - autorizar cada um dos atos de retomada, intervenção ou expropriação de bens de empresas que explorem serviços públicos, sempre condicionada a justa e prévia indenização em dinheiro, consoante o princípio inserido no art. 5º, XXIV da Constituição Federal;
+
 XXII - dar posse ao Prefeito e ao Vice-Prefeito, bem como os respectivos compromissos ou renúncias;
+
 XXIII - sustar os atos normativos do Poder Executivo que exorbitarem do poder regulamentar ou dos limites de delegação legislativa;
+
 XXIV - suspender a execução, no todo ou em parte, de lei ou de ato normativo ou municipal declarado inconstitucional por decisão definitiva do Tribunal de Justiça;
+
 XXV - zelar pela preservação de sua competência legislativa, em face de atribuições normativas de outros Poderes;
+
 XXVI - autorizar o Executivo assinar convênios, consórcios, contratos e outros acordos de qualquer natureza com entidades de direito público ou privado, nacionais ou estrangeiras em que haja emprego de recursos financeiros, materiais ou humanos da Municipalidade;
+
 XXVII - autorizar referendo e convocar plebiscito;
+
 XXVIII - autorizar, previamente, alienação a título oneroso de bens do Município, na conformidade desta lei;
+
 XXIX - emendar a Lei Orgânica, promulgar leis no caso do silêncio do Prefeito, expedir decretos legislativos e resoluções;
-XXX - declarar a perda de mandato de Vereador na forma do artigo 83, § 2º, da Lei acima mencionada. (**Nova Redação dada pela Emenda nº 002, de 02.04.91**)
+
+~~XXX -~~
+
+XXX - declarar a perda de mandato de Vereador na forma do artigo 83, § 2º, da Lei acima mencionada. [(Redação dada pela Emenda à Lei Orgânica nº 2, de 1991)](/legislatura-1989-1992/1991/lei-organica/ELO-00002-1991.md)
+
 XXXI - ordenar a sustação de contrato impugnado pelo Tribunal de Contas;
+
 XXXII - apreciar vetos;
+
 XXXIII - aprovar, por iniciativa de 1/3 (um terço) e, pelo voto favorável de 3/5 (três quintos) dos seus membros, moção de desaprovação a atos dos Secretários Municipais, sobre cujo processo de discussão e votação disporá o Regimento Interno da Câmara Municipal, assegurando-lhes o direito de defesa no Plenário;
+
 XXXIV - autorizar, previamente, por maioria absoluta de seus membros, proposta de empréstimo externo a ser apresentada pelo Prefeito ao Senado Federal;
+
 XXXV - autorizar a criação, fusão ou extinção de empresas públicas ou de economia mista, bem como o controle acionário de empresas particulares do Município;
+
 XXXVI - fixar o número de Vereadores, para cada legislatura, guardando proporção com a população do município existente até 31 de dezembro do ano anterior ao da eleição, apurada pelo órgão federal competente;
+
 XXXVII - referendar as desapropriações e as permissões ou autorizações para uso de bens municipais por terceiros;
+
 XXXVIII - dispor sobre a criação, organização e funcionamento de conselhos municipais;
+
 XXXIX - autorizar a concessão de serviços públicos, na forma da lei.
 
 **Art. 76.** Os Vereadores poderão exercer o Poder de Polícia e vigilância em todos os setores de atividade pública municipal, bem assim como nas atividades privadas licenciadas no Município ou que dependem de licenciamento.
@@ -762,9 +836,13 @@ XXXIX - autorizar a concessão de serviços públicos, na forma da lei.
 **Art. 79.** Ao término da cada sessão legislativa, a Câmara elegerá, dentre os seus membros, em votação secreta, uma comissão Representativa, cuja composição reproduzirá, tanto quanto possível, a proporcionalidade da representação partidária ou dos blocos parlamentares da Casa, que funcionará nos interregnos da sessões legislativas ordinárias, com as seguintes atribuições:
 
 I - reunir-se ordinariamente uma vez por semana e, extraordinariamente, sempre que convocada pelo Presidente;
+
 II - zelar pelas prerrogativas do Poder Legislativo;
+
 III - zelar pela observância da Lei Orgânica e dos direitos e garantias individuais;
+
 IV - autorizar o prefeito a se ausentar do Município por mais de quinze dias, em consonância com o exposto no inciso V do art. 75;
+
 V - convocar extraordinariamente a Câmara em caso de urgência ou interesse público relevante;
 
 **§ 1º** a Comissão Representativa é constituída por número ímpar de Vereadores.
@@ -802,35 +880,55 @@ V - convocar extraordinariamente a Câmara em caso de urgência ou interesse pú
 I - desde a expedição do diploma:
 
 a) firmar ou manter contrato com pessoa jurídica de direito público, autarquia, fundação, empresa pública, sociedade de economia mista ou empresa concessionária de serviço público, salvo quando o contrato obedecer a cláusulas uniformes;
+
 b) aceitar ou exercer cargo, função ou emprego remunerado, inclusive os de confiança nas entidades constantes da alínea anterior;
+
 II - desde a posse;
+
 a) ocupar cargo, função ou emprego, na Administração Pública Direta ou Indireta do município, de que seja exonerável "ad nutum" salvo o cargo de Secretário Municipal ou Diretor equivalente;
+
 b) exercer outro cargo eletivo federal, estadual ou municipal;
+
 c) ser proprietário, controlador ou diretor de empresa que goze de favor decorrente de contrato com pessoa jurídica de direito público do Município, ou nela exercer função remunerada;
+
 d) patrocinar causa junto ao Município em que seja interessada qualquer das entidades a que se refere a alínea "a" do inciso I.
 
 **Art. 83.** Perderá o mandato o Vereador:
 
 I - que infringir qualquer das proibições estabelecidas no artigo anterior;
+
 II - cujo procedimento for declarado incompatível com o decoro parlamentar ou atentatório às instituições vigentes;
+
 III - que utilizar do mandato para a prática de atos de corrupção ou de improbidade administrativa;
+
 IV - que deixar de comparecer, em dada sessão legislativa anual, à terça parte das sessões ordinárias da Câmara, salvo doença comprovada, licença ou missão autorizada pela edilidade;
-V - Revogado. (**Revogado pela Emenda nº 019, de 24.11.99**)
+
+~~V -~~ 
+
+V - Revogado. [(Redação dada pela Emenda nº 019, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00019-1999.md)
+
 VI - que reincidir na prestação de declarações públicas e em atitudes que afetem a respeitabilidade pública da Câmara Municipal;
 
 **§ 1º** Além de outros casos definidos no Regimento Interno da Câmara Municipal, considerar-se-á incompatível com o decoro parlamentar o abuso das prerrogativas asseguradas ao Vereador ou a percepção de vantagens ilícitas ou imorais.
 
-**§ 2º** A perda do mandato será declarada pela Câmara por voto secreto e maioria de 2/3 (dois terços) dos seus membros, mediante provocação da Mesa ou partido político representado na Câmara Municipal, assegurado o devido processo legal e garantido ao acusado, ampla defesa. (**Nova Redação dada pela Emenda nº 002, de 02.04.91**)
+~~**§ 2º**~~
+
+**§ 2º** A perda do mandato será declarada pela Câmara por voto secreto e maioria de 2/3 (dois terços) dos seus membros, mediante provocação da Mesa ou partido político representado na Câmara Municipal, assegurado o devido processo legal e garantido ao acusado, ampla defesa. [(Redação dada pela Emenda à Lei Orgânica nº 2, de 1991)](/legislatura-1989-1992/1991/lei-organica/ELO-00002-1991.md)
 
 **Art. 84.** O processo de cassação de mandato de Vereador e no que couber o estabelecido no art. 132 desta Lei Orgânica, que trata do procedimento processual por infração político-administrativa do Prefeito.
 
 **Art. 85.** São casos de extinção de mandato de Vereador, declarado pela Mesa da Câmara:
 
 I - morte;
+
 II - renúncia;
+
 III - condenação definitiva por crime funcional ou eleitoral, ou por outros crimes em que haja sido cominada pena de prisão de 2 (dois) anos ou mais:
+
 IV - decretação judicial por interdição;
+
 V - o decurso de prazo para a posse;
+
 VI - a perda ou suspensão dos direitos políticos.
 
 **Parágrafo Único.** Ocorrido ou comprovado o ato ou o fato extintivo de mandato, o Presidente Câmara, na primeira reunião, comunicá-lo-á ao Plenário e fará constar da ata da declaração de vacância, convocando o seu suplente.
@@ -844,17 +942,22 @@ VI - a perda ou suspensão dos direitos políticos.
 **§ 1º** O prazo para convocação do Suplente contar-se-á:
 
 a) da data em que o Presidente tiver notícia do falecimento do Vereador;
+
 b) da data da leitura da renúncia, no Plenário da Câmara, permitida a reconsideração do renunciante no prazo máximo previsto no "caput" deste artigo;
+
 c) na data em que for declarada a cassação do mandato de Vereador, nos termos da legislação federal e desta Lei Orgânica.
 
 **Art. 88.** Suspende-se o exercício do mandato de Vereador:
 
 I - pela declaração de prisão preventiva e condenação de sentença transitada em julgado, desde que seja aprovada pela maioria absoluta dos Vereadores;
+
 II - pela denúncia de infração de infração político-administrativa aprovada pela maioria absoluta dos membros da Câmara Municipal.
 
-**Art. 89** A remuneração dos Vereadores será fixado em cada legislatura, para a subsequente, pela Câmara Municipal, de acordo com a Constituição Federal.*
-*Alterado pela Emenda nº 008, de 10.11.96.
-Nova Redação dada pela Emenda nº 009, de 17.12.96.
+~~**Art. 89**~~
+
+~~**Art. 89**~~ *Alterado pela Emenda nº 008, de 10.11.96.
+
+**Art. 89** A remuneração dos Vereadores será fixado em cada legislatura, para a subsequente, pela Câmara Municipal, de acordo com a Constituição Federal. [(Redação dada pela Emenda nº 9, de 1996)](/legislatura-1993-1996/1996/lei-organica/ELO-00009-1996.md)
 
 **§ 1º** Não se inclui na proibição contida neste artigo o pagamento de diárias ou a indenização de despesas de viagens para desempenhar missões temporárias de caráter cultural ou de interesse do Município, sempre com autorização da Câmara.
 
@@ -908,13 +1011,19 @@ III - para desempenhar missões temporárias de caráter cultural ou de interess
 
 **§ 6º** A eleição da Mesa, para o segundo biênio de cada legislatura far-se-á na última sessão do primeiro biênio, e os eleitos tomarão posse no primeiro dia útil do biênio seguinte. [(Inluído pela Emenda nº 36, de 06.04.2010)](/legislatura-2009-2012/2010/lei-organica/ELO-00036-2010.md)
 
-~~**Art. 93.** O mandato da Mesa será de dois anos, facultada a recondução por mais um período, para o mesmo cargo, na eleição imediatamente subsequente.~~
+~~**Art. 93.**~~
 
-~~**Art. 93.** O Mandato da Mesa Diretora da Câmara Municipal de Maricá será de 02 (dois) anos, permitidas reconduções para os mesmos cargos nas eleições subseqüentes. [(Redação dada pela Emenda à Lei Orgânica nº 34, de 2008)](/legislatura-2001-2004/2004/lei-organica/ELO-00027-2004.md)~~ 
+~~**Art. 93.** O mandato da Mesa será de dois anos, facultada a recondução por mais um período, para o mesmo cargo, na eleição imediatamente subsequente. [(Redação dada pela Emenda à Lei Orgânica nº 14, de 1998)](/legislatura-1997-2000/1998/lei-organica/ELO-00014-1998.md)~~
+
+~~**Art. 93.** O Mandato da Mesa Diretora da Câmara Municipal de Maricá será de 02 (dois) anos, permitidas reconduções para os mesmos cargos nas eleições subseqüentes. [(Redação dada pela Emenda à Lei Orgânica nº 34, de 2008)](/legislatura-2001-2004/2004/lei-organica/ELO-00027-2004.md)~~
+
+~~**Art. 93.** O mandato da Mesa Diretora da Câmara Municipal de Maricá será, obrigatoriamente, de 01 (um) ano, com direito apenas a uma recondução. [(Redação dada pela Emenda à Lei Orgânica nº 32, de 2007)](/legislatura-2005-2008/2007/lei-organica/ELO-00032-2007.md)~~
 
 **Art. 93.** O Mandato da Mesa Diretora da Câmara Municipal de Maricá será de 02 (dois) anos, permitidas as reconduções para os mesmos cargos nas eleições subseqüentes. [(Redação dada pela Emenda à Lei Orgânica nº 34, de 2008)](/legislatura-2005-2008/2008/lei-organica/ELO-00034-2008.md)
 
-**Parágrafo Único.** A recondução de que trata o caput deste artigo independe da Legislatura, não podendo ultrapassar a dois períodos consecutivos. (**Nova Redação dada pela Emenda nº 014, de 02.07.98**)
+~~**Parágrafo Único.**~~
+
+**Parágrafo Único.** A recondução de que trata o caput deste artigo independe da Legislatura, não podendo ultrupassar a dois períodos consecutivos." [(Redação dada pela Emenda à Lei Orgânica nº 14, de 1998)](/legislatura-1997-2000/1998/lei-organica/ELO-00014-1998.md)
 
 **Art. 94.** A Mesa da Câmara se compõe do Presidente, Primeiro Secretário e Segundo Secretário, os quais se substituirão nessa ordem.
 
@@ -929,47 +1038,77 @@ III - para desempenhar missões temporárias de caráter cultural ou de interess
 **Art. 95.** À Mesa, dentre outras atribuições compete:
 
 I - tomar todas as medidas necessárias à regularidade dos trabalhos legislativos;
+
 II - propor projetos que criem ou extinguem cargos nos serviços da Câmara de Vereadores e fixem os respectivos vencimentos;
+
 III - apresentar projetos de lei dispondo sobre abertura de créditos suplementares ou especiais, através do aproveitamento total ou parcial das consignações orçamentárias da Câmara;
+
 IV - promulgar a Lei Orgânica e suas emendas;
+
 V - representar, junto ao Executivo, sobre necessidades de economia interna;
+
 VI - contratar, na forma da lei, por tempo determinado, para atender a necessidade temporária de excepcional interesse público:
+
 VII - autorizar a aplicação dos recursos públicos disponíveis, na forma do artigo 128 e seus parágrafos 1º e 2º;
+
 VIII - o resultado das aplicações referidas no inciso VII será levada à conta da Câmara Municipal.
 
 **Art. 96.** À Câmara Municipal, observado o disposto nesta Lei Orgânica, compete elaborar seu Regimento Interno, dispondo sobre sua organização, política e provimento de cargos de seus serviços e, especialmente, sobre:
 
 I - sua instalação e funcionamento;
+
 II - posse de seus membros;
+
 III - eleição da Mesa, sua composição e suas atribuições;
+
 IV - periodicidade das reuniões;
+
 V - comissões;
+
 VI - sessões;
+
 VII - deliberações;
+
 VIII - todo e qualquer assunto de administração interna.
 
 **Art. 97.** Dentre outras atribuições, compete ao Presidente da Câmara:
 
 I - representar a Câmara em Juízo ou fora dele;
+
 II - dirigir, executar e disciplinar os trabalhos legislativos e administrativos da Câmara;
+
 III - interpretar e fazer cumprir o Regimento Interno;
+
 IV - promulgar as resoluções e os decretos legislativos;
+
 V - promulgar as leis com sanção tácita ou cujo veto tenha sido rejeitado pelo Plenário, desde que não aceita esta decisão, em tempo hábil, pelo Prefeito;
+
 VI - autorizar as despesas da Câmara;
+
 VII - fazer publicar os atos da Mesa, as resoluções, decretos legislativos e as leis de que vier a promulgar;
+
 VIII - representar, por decisão da Câmara, sobre a inconstitucionalidade de lei ou ato municipal;
+
 IX - solicitar, por decisão da maioria absoluta da Câmara, a intervenção no Município nos casos admitidos pela Constituição Federal e pela Constituição Estadual;
+
 X - encaminhar, para parecer prévio a prestação de contas do Município ao Tribunal do Estado ou órgão a que for atribuída tal competência;
+
 XI - manter a ordem no recinto da Câmara, podendo solicitar a força necessária para esse fim;
+
 XII - decretar a prisão administrativa do servidor da Câmara omisso ou remisso na prestação de contas do dinheiro público ou bens sujeitos à sua guarda;
+
 XIII - declarar extinto o mandato do Prefeito, do Vice-Prefeito e dos Vereadores, nos casos previstos em lei;
+
 XIV - requisitar o numerário destinado às despesas da Câmara, bem como prestar contas dos prazos estabelecidos em lei.
 
 **Art. 98.** O Presidente da Câmara ou sem substituto, quando em exercício, não poderá apresentar nem discutir projetos, indicações, requerimentos, emendas ou propostas de qualquer espécie e só poderá votar:
 
 I - nas eleições da Mesa da Câmara;
+
 II - quando a matéria exigir, para a sua aprovação, o voto favorável da maioria absoluta ou 2/3 (dois terços) dos membros da Câmara.
+
 III - quando houver empate em qualquer votação no Plenário;
+
 IV - nos casos de escrutínio secreto.
 
 **Art. 99.** O processo de votação será determinado no Regimento Interno.
@@ -977,7 +1116,9 @@ IV - nos casos de escrutínio secreto.
 **Parágrafo Único.** O voto secreto:
 
 a) nas eleições para Mesa Diretora;
+
 b) na apuração das contas do Prefeito;
+
 c) nas deliberações sobre a perda ou suspensão de mandato de Vereadores, Prefeito, Vice-Prefeito ou seu afastamento das funções.
 
 **Art. 100.** A maioria e a minoria, as Representações Partidárias, mesmo com apenas um membro, e os blocos parlamentares terão líder e, quando for o caso, Vice-Líder.
@@ -993,10 +1134,15 @@ c) nas deliberações sobre a perda ou suspensão de mandato de Vereadores, Pref
 **Art. 102.** A Câmara terá comissões permanentes, em razão da matéria de sua competência, cabe:
 
 I - discutir e votar projetos de lei que dispensar, na forma do Regimento Interno, a competência do Plenário, salvo se houver recurso de 1/3 (um terço) dos membros da Casa;
+
 II - realizar audiência públicas com entidades da sociedade civil;
+
 III - convocar Secretários Municipais, ou Diretores equivalentes, para prestarem informações sobre assuntos inerentes às sua atribuições;
+
 IV - receber petições, reclamações, representações ou queixas de qualquer pessoa contra atos ou omissões das autoridades ou entidades públicas;
+
 V - solicitar depoimento de qualquer autoridade ou cidadão;
+
 VI - exercer, no âmbito de sua competência, a fiscalização dos atos do Executivo e da Administração Indireta.
 
 **§ 2º** As comissões especiais, criadas por deliberação do plenário, serão destinadas ao estudo de assuntos específicos e a representação da Câmara em congressos, solenidades ou outros atos públicos.
@@ -1010,13 +1156,20 @@ VI - exercer, no âmbito de sua competência, a fiscalização dos atos do Execu
 **Art. 103.** O processo legislativo municipal compreende a elaboração de:
 
 I - emendas à Lei Orgânica Municipal;
-II - leis complementares;
-III - leis ordinárias;
-~~IV - revogado~~ (**Revogado pela Emenda nº 017, de 15.10.99**)
-IV - resoluções (**Incluído pela Emenda nº 017, de 15.10.99**)
-V - decretos legislativos.
 
-**Parágrafo Único.** Lei Complementar disporá sobre elaboração, redação, alteração e consolidação de leis. (**Incluído pela Emenda nº 012, de 22.05.97**)
+II - leis complementares;
+
+III - leis ordinárias;
+
+~~IV -~~ 
+
+IV - Revogado. [(Redação dada pela Emenda nº 017, 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00017-1999.md)
+
+IV - resoluções [(Renumerado do inciso V, pela Emenda nº 17, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00017-1999.md)
+
+V - decretos legislativos. [(Renumerado do inciso VI, pela Emenda nº 17, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00017-1999.md)
+
+**Parágrafo Único.** Lei Complementar disporá sobre elaboração, redação, alteração e consolidação de leis. [(Incluído pela Emenda nº 12, de 1997)](/legislatura-1997-2000/1997/lei-organica/ELO-00012-1997.md)
 
 **Art. 104.** A Lei Orgânica Municipal será emendada mediante proposta:
 
@@ -1033,29 +1186,42 @@ II - do Prefeito Municipal.
 
 **Art. 105.** A iniciativa das leis complementares e ordinárias cabe a qualquer Vereador, Comissão Permanente da Câmara, ao Prefeito e ao cidadãos, que a exercerão sob a forma de moção articulada, subscrita, no mínimo, por 5% (cinco por cento) do total de número de eleitores do Município.
 
-**Parágrafo Único.** Os Projetos de Lei (ordinária ou complementar) serão discutidos e votados, em dois turnos, com interstício mínimo de vinte e quatro horas, considerando-se aprovados se obtiverem, em ambos, o quorum exigido. (**Incluído pela Emenda nº 020, de 24.11.99**)
+**Parágrafo Único.** Os Projetos de Lei (ordinária ou complementar) serão discutidos e votados, em dois turnos, com interstício mínimo de vinte e quatro horas, considerando-se aprovados se obtiverem, em ambos, o quorum exigido. [(Redação dada pela Emenda nº 20, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00020-1999.md)
 
 **Art. 106.** As leis complementares somente serão aprovadas se obtiverem maioria absoluta dos votos dos membros da Câmara Municipal, observados os demais termos de votação das leis ordinárias.
 
 **Parágrafo Único.** Serão leis complementares dentre outras previstas nesta Lei Orgânica:
 
 I - Código Tributário do Município;
+
 II - Código de obras;
+
 III - Código de Posturas;
+
 IV - Código Municipal de Transportes;
+
 V - Lei instituidora do regime jurídico único estatutário dos funcionários municipais;
+
 VI - Estatuto das carreiras do Magistério;
+
 VII - Lei da Guarda Municipal;
+
 VIII - Lei da Procuradoria Geral do Município;
+
 IX - Lei dos Serviços Municipais de Saúde;
+
 X - Lei da criação de cargos, funções ou empregos públicos;
+
 XI - Plano Diretor do Município.
 
 **Art. 107.** São de iniciativa exclusiva do Prefeito, as leis que disponham sobre:
 
 I - Criação, transformação ou extinção de cargos, funções ou empregos públicos na Administração Direta e autárquica ou aumento de sua remuneração;
+
 II - funcionários públicos do Poder Executivo, da Administração Indireta e Autarquias, seu regime jurídico, provimento de cargos, estabilidade e aposentadoria;
+
 III - criação, estruturação e atribuições das Secretárias, Departamento ou Diretorias equivalentes e órgãos da Administração Pública;
+
 IV - matéria orçamentária e a que autoriza a abertura de créditos ou conceda auxílios e subvenções.
 
 **Parágrafo Único.** Não será admitido aumento de despesa nos projetos de iniciativa exclusiva do Prefeito Municipal, ressalvado o disposto no inciso IV, primeira parte, deste artigo.
@@ -1063,6 +1229,7 @@ IV - matéria orçamentária e a que autoriza a abertura de créditos ou conceda
 **Art. 108.** É de competência exclusiva da Mesa da Câmara a iniciativa das leis que disponham sobre:
 
 I - autorização para abertura de créditos suplementares ou especiais, através do aproveitamento total ou parcial das consignações orçamentárias da Câmara;
+
 II - organização dos serviços administrativos da Câmara, criação, transformação ou extinção de seus cargos, empregos e funções e fixação de respectiva remuneração.
 
 **Parágrafo Único.** Nos projetos de competência exclusiva da Mesa da Câmara não serão admitidas emendas que aumentem a despesa prevista, ressalvado o disposto na parte final do inciso II deste artigo, se assinada pela metade dos Vereadores.
@@ -1075,21 +1242,37 @@ II - organização dos serviços administrativos da Câmara, criação, transfor
 
 **§ 3º** O prazo do § 1º não corre no período de recesso da Câmara nem se aplica aos projetos de lei complementar.
 
-**Art. 110.** A Câmara, concluída a votação, enviará, no prazo máximo de cinco dias úteis, o Projeto de Lei aprovado ao Prefeito Municipal, que, aquiescendo, o sancionará. (**Nova Redação dada pela Emenda nº 016, de 15. 10.99**)
+~~**Art. 110.**~~
 
-**§ 1º** Se o Prefeito considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, vetá-lo-á total ou parcialmente, no prazo de quinze dias úteis, contados na data do recebimento, e comunicará, dentro de quarenta e oito horas, ao Presidente da Câmara os motivos do veto. (**Nova Redação dada pela Emenda nº 016, de 15. 10.99**)
+~~**§ 1º**~~
 
-**§ 2º** O veto parcial somente abrangerá texto integral do artigo, de parágrafo, de inciso ou de alínea. (**Nova Redação dada pela Emenda nº 016, de 15. 10.99**)
+~~**§ 2º**~~
 
-**§ 3º** Decorrido o prazo de quinze dias úteis, o silêncio do Prefeito importará em sanção.(**Nova Redação dada pela Emenda nº 016, de 15. 10.99**)
+~~**§ 3º**~~
 
-**§ 4º** O veto será apreciado dentro de trinta dias a contar de seu recebimento pela Câmara, só podendo ser rejeitado pelo voto da maioria absoluta dos Vereadores em votação secreta.(**Nova Redação dada pela Emenda nº 016, de 15. 10.99**)
+~~**§ 4º**~~
 
-**§ 5º** Se o veto não for mantido, será a lei enviada, para promulgação, ao Prefeito Municipal.(**Nova Redação dada pela Emenda nº 016, de 15. 10.99**)
+~~**§ 5º**~~
 
-**§ 6º** Esgotado sem deliberação o prazo estabelecido no § 4º deste artigo, o veto será colocado na ordem do dia da sessão imediata, sobrestadas as demais proposições, até sua votação final.(**Nova Redação dada pela Emenda nº 016, de 15. 10.99**)
+~~**§ 6º**~~
 
-**§ 7º** Se a Lei não for promulgada dentro de quarenta e oito horas pelo Prefeito Municipal, nos casos dos §§ 3º e 5º deste artigo, o Presidente da Câmara a promulgará, e, se este não o fizer em igual prazo, caberá ao vice-presidente fazê-lo.(**Nova Redação dada pela Emenda nº 016, de 15. 10.99**)
+~~**§ 7º**~~
+
+**Art. 110.** A Câmara, concluída a votação, enviará, no prazo máximo de cinco dias úteis, o Projeto de Lei aprovado ao Prefeito Municipal, que, aquiescendo, o sancionará. [(Redação dada pela Emenda nº 16, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00016-1999.md)
+
+**§ 1º** Se o Prefeito considerar o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, vetá-lo-á total ou parcialmente, no prazo de quinze dias úteis, contados na data do recebimento, e comunicará, dentro de quarenta e oito horas, ao Presidente da Câmara os motivos do veto. [(Redação dada pela Emenda nº 16, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00016-1999.md)
+
+**§ 2º** O veto parcial somente abrangerá texto integral do artigo, de parágrafo, de inciso ou de alínea. [(Redação dada pela Emenda nº 16, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00016-1999.md)
+
+**§ 3º** Decorrido o prazo de quinze dias úteis, o silêncio do Prefeito importará em sanção. [(Redação dada pela Emenda nº 16, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00016-1999.md)
+
+**§ 4º** O veto será apreciado dentro de trinta dias a contar de seu recebimento pela Câmara, só podendo ser rejeitado pelo voto da maioria absoluta dos Vereadores em votação secreta. [(Redação dada pela Emenda nº 16, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00016-1999.md)
+
+**§ 5º** Se o veto não for mantido, será a lei enviada, para promulgação, ao Prefeito Municipal. [(Redação dada pela Emenda nº 16, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00016-1999.md)
+
+**§ 6º** Esgotado sem deliberação o prazo estabelecido no § 4º deste artigo, o veto será colocado na ordem do dia da sessão imediata, sobrestadas as demais proposições, até sua votação final. [(Redação dada pela Emenda nº 16, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00016-1999.md)
+
+**§ 7º** Se a Lei não for promulgada dentro de quarenta e oito horas pelo Prefeito Municipal, nos casos dos §§ 3º e 5º deste artigo, o Presidente da Câmara a promulgará, e, se este não o fizer em igual prazo, caberá ao vice-presidente fazê-lo. [(Redação dada pela Emenda nº 16, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00016-1999.md)
 
 **Art. 111.** As leis delegadas serão elaboradas pelo Prefeito, que deverá solicitar a delegação da Câmara Municipal.
 
@@ -1121,11 +1304,14 @@ II - organização dos serviços administrativos da Câmara, criação, transfor
 
 **Art. 115.** Prestará contas qualquer pessoa física ou entidade pública que utilize, arrecade, guarde, gerencie e administre dinheiro, bens e valores públicos, ou pelos quais o Município responda, ou que, em nome deste, assuma obrigações de natureza pecuniária.
 
-**Art. 116.** O Executivo manterá sistemas de controle interno, a fim de:
+###### **Art. 116.** O Executivo manterá sistemas de controle interno, a fim de:
 
 I - criar condições indispensáveis para assegurar eficácia ao controle externo e regularidade à realização da receita e despesa;
+
 II - acompanhar as execuções de programas de trabalho e de orçamento;
+
 III - avaliar os resultados alcançados pelos administradores;
+
 IV - verificar a execução dos contratos.
 
 ### CAPÍTULO II - DO PODER EXECUTIVO
@@ -1171,53 +1357,98 @@ III - a serviço ou em missão de representação do Município.
 
 **Art. 125.** O Prefeito gozará férias anuais de 30 (trinta) dias, sem prejuízo da remuneração, ficando a seu critério a época para usufruir o descanso.
 
-**Art. 126.** A remuneração do Prefeito e sua verba de representação, assim como a verba de representação do Vice-Prefeito, serão fixadas em cada Legislatura, para a subsequente, pela Câmara Municipal, através de Decreto Legislativo. (**Nova Redação dada pela Emenda nº 009, de 17.12.96**)
+~~**Art. 126.**~~
 
-~~I - Revogado;~~ (**Revogado pela Emenda nº 009, de 17.12.96**)
-~~II - Revogado;~~ (**Revogado pela Emenda nº 009, de 17.12.96**)
+~~I -~~
 
-~~**Parágrafo Único.** Revogado.~~ (**Revogado pela Emenda nº 009, de 17.12.96**)
+~~II -~~ 
+
+**Art. 126.** A remuneração do Prefeito e sua verba de representação, assim como a verba de representação do Vice-Prefeito, serão fixadas em cada Legislatura, para a subsequente, pela Câmara Municipal, através de Decreto Legislativo. [(Redação dada pela Emenda à Lei Orgânica nº 9, de 1996)](/legislatura-1993-1996/1996/lei-organica/ELO-00009-1996.md)
+
+I - Revogado; [(Redação dada pela Emenda à Lei Orgânica nº 9, de 1996)](/legislatura-1993-1996/1996/lei-organica/ELO-00009-1996.md)
+
+II - Revogado. [(Redação dada pela Emenda à Lei Orgânica nº 9, de 1996)](/legislatura-1993-1996/1996/lei-organica/ELO-00009-1996.md)
+
+**Parágrafo Único.** Revogado. [(Redação dada pela Emenda à Lei Orgânica nº 9, de 1996)](/legislatura-1993-1996/1996/lei-organica/ELO-00009-1996.md)
 
 #### Seção II - Das Atribuições do Prefeito
 
 **Art. 127.** Compete ao Prefeito, entre outras atribuições:
 
 I - iniciar o processo legislativo, na forma e casos previstos nesta Lei Orgânica;
+
 II - representar o Município em Juízo e fora dele;
+
 III - sancionar, promulgar e fazer publicar as leis aprovadas pela Câmara e expedir os regulamentos para a sua fiel execução;
+
 IV - vetar, no todo ou em parte, os projetos de lei aprovados pela Câmara;
+
 V - nomear e exonerar os Secretários Municipais e os Diretores dos órgãos da administração direta ou indireta e os administradores distritais;
+
 VI - decretar, nos termos da lei, a desapropriação por necessidade ou utilidade pública, ou por interesse social, com o "referendum" da Câmara;
+
 VII - expedir decretos, portarias e outros atos administrativos;
+
 VIII - permitir ou autorizar o uso de bens municipais por terceiros, com o "referendum" da Câmara;
+
 IX - prover os cargos públicos e expedir os demais atos referentes à situação funcional dos servidores;
+
 X - enviar à Câmara, projetos de lei relativos ao orçamento anual e ao plano plurianual do Município e das suas autarquias;
+
 XI - encaminhar à Câmara, até 15 de abril, a prestação de contas, bem como os balanço do exercício findo;
+
 XII - encaminhar, aos órgãos competentes, os planos de aplicação e as prestações de contas exigidas em lei;
+
 XIII - fazer publicar os atos oficiais;
+
 XIV - prestar à Câmara, dentro de quinze dias, as informações pela mesma solicitada, salvo prorrogação, a seu pedido e por prazo determinado, em face da complexidade da matéria ou da dificuldade de obtenção nas respectivas fontes, de dados necessários ao atendimento do pedido;
+
 XV - prover os serviços e obras da administração pública;
+
 XVI - superintender a arrecadação dos tributos, bem como a guarda e aplicação da receita, autorizando as despesas e pagamento dentro das disponibilidades orçamentárias ou dos créditos votados pela Câmara;
-XVII - colocar à disposição da Câmara, dentro de dez dias de sua requisição, as quantias que devem ser despendidas de uma só vez e, até o dia vinte de cada mês corrente, os recursos correspondentes às suas dotações orçamentárias, compreendendo os créditos suplementares e especiais; (**Nova Redação dada pela Emenda nº 018, de 05.11.99**)
+
+~~XVII -~~
+
+XVII - colocar à disposição da Câmara, dentro de dez dias de sua requisição, as quantias que devem ser despendidas de uma só vez e, até o dia vinte de cada mês corrente, os recursos correspondentes às suas dotações orçamentárias, compreendendo os créditos suplementares e especiais; [(Redação dada pela Emenda nº 18, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00018-1999.md)
+
 XVIII - aplicar multas previstas em lei e contratos, bem como revê-las quando impostas irregularmente;
+
 XIX - resolver sobre os requerimentos, reclamações ou representação que lhe forem dirigidas;
+
 XX - oficializar, obedecidas as normas urbanísticas aplicáveis, as vias e logradouros públicos, mediante denominação aprovada pela Câmara;
+
 XXI - convocar extraordinariamente a Câmara quando o interesse da administração o exigir;
+
 XXII - aprovar projetos de edificação e planos de loteamento, arruamento e zoneamento urbano ou para fins urbanos;
+
 XXIII - apresentar, anualmente, à Câmara, relatório circunstanciado sobre os estados das obras e dos serviços municipais, bem assim o programa da administração para o ano seguinte;
+
 XXIV - organizar os serviços internos das repartições criadas por lei, com observância do limite das dotações a elas destinadas;
+
 XXV - contrair empréstimos e realizar operações de crédito, mediante prévia autorização da Câmara;
+
 XXVI - providenciar sobre a administração dos bens do Município e sua alienação, na forma da lei;
+
 XXVII - organizar e dirigir, nos termos da lei, os serviços relativos às terras do Município;
+
 XXVIII - desenvolver o sistema viário do Município;
+
 XXIX - conceder auxílios, prêmios e subvenções, nos limites das respectivas verbas orçamentárias e do plano de distribuição prévia e anualmente aprovado pela Câmara;
+
 XXX - providenciar sobre o incremento do ensino;
+
 XXXI - estabelecer a divisão administrativa do Município, de acordo com a lei;
+
 XXXII - solicitar o auxílio das autoridades policiais do Estado e da Guarda Municipal, conforme o caso, para garantia do cumprimento de seus atos;
+
 XXXIII - solicitar, obrigatoriamente, autorização à Câmara, para ausentar-se do Município por tempo superior a quinze dias;
+
 XXXIV - adotar providências para a conservação e salvaguarda do patrimônio municipal;
+
 XXXV - publicar, até trinta dias após o encerramento de cada bimestre, relatório resumido da execução orçamentária;
+
 XXXVI - estimular a participação popular na formulação das políticas e de sua ação governamental, estabelecendo programas de incentivos e projetos de organização comunitária nos campos social e econômico, cooperativas de produção e mutirões;
+
 XXXVII - enviar à Câmara toda a documentação relativa à celebração daquilo a que se refere o inciso XXVI do artigo 75, à qual será anexada uma exposição dos motivos considerados pela Prefeitura para a sua realização.
 
 **Parágrafo Único.** O Prefeito poderá delegar, por decreto, aos seus auxiliares, as funções administrativas previstas nos incisos IX, XV e XXIV.
@@ -1323,13 +1554,17 @@ V - prestar contas ao Prefeito mensalmente ou quando lhe forem solicitadas.
 
 #### Seção V - Da Procuradoria Geral do Município
 
-**Art. 142.** A representação Judicial, extrajudicial e a Consultoria Jurídica do Município, ressalvada a representação da Câmara Municipal, são exercidas pelo Procurador Geral, pelo subprocurador e pelos Procuradores Municipais, membros da Procuradoria Geral, instituição essencial à formalização dos atos da justiça administrativa, diretamente vinculada ao Prefeito Municipal, com funções de supervisão dos serviços jurídicos da administração direta e indireta no âmbito do Poder Executivo. (**Nova Redação dada pela Emenda nº 007, de 04.08.95**)
+~~**Art. 142.**~~
+
+**Art. 142.** A representação Judicial, extrajudicial e a Consultoria Jurídica do Município, ressalvada a representação da Câmara Municipal, são exercidas pelo Procurador Geral, pelo subprocurador e pelos Procuradores Municipais, membros da Procuradoria Geral, instituição essencial à formalização dos atos da justiça administrativa, diretamente vinculada ao Prefeito Municipal, com funções de supervisão dos serviços jurídicos da administração direta e indireta no âmbito do Poder Executivo. [(Redação dada pela Emenda nº 7, de 1995)](/legislatura-1993-1996/1995/lei-organica/ELO-00007-1995.md)
 
 **§ 1º** O Procurador Geral do Município, nomeado pelo Prefeito, dentre cidadãos maiores de trinta e cinco anos, de notável saber jurídico e reputação ilibada, após o referendo da maioria absoluta dos Vereadores.
 
 **§ 2º** O ingresso nas classes iniciais das carreiras da instituição de que trata este artigo far-se-á mediante concurso público de provas e títulos.
 
-**§ 3º** Na execução da dívida ativa de natureza tributária, a P.G.M fará a cobrança judicial e extrajudicial através dos seus Procuradores, também podendo o Prefeito Municipal credenciar Advogados, fora do Quadro dos Servidores da Municipalidade, para promoverem as cobranças acima mencionadas. (**Nova Redação dada pela Emenda nº 007, de 04.08.95**)
+~~**§ 3º**~~
+
+**§ 3º** Na execução da dívida ativa de natureza tributária, a P.G.M fará a cobrança judicial e extrajudicial através dos seus Procuradores, também podendo o Prefeito Municipal credenciar Advogados, fora do Quadro dos Servidores da Municipalidade, para promoverem as cobranças acima mencionadas. [(Redação dada pela Emenda nº 7, de 1995)](/legislatura-1993-1996/1995/lei-organica/ELO-00007-1995.md)
 
 **§ 4º** Fica garantida a participação dos Procuradores Municipais nos órgãos de instâncias colegiadas administrativas e fiscais, na forma da lei.
 
@@ -1659,7 +1894,9 @@ IX - a instituição de fundos de qualquer natureza, sem prévia autorização l
 
 **Art. 193.** Nenhuma despesa será ordenada ou satisfeita sem que exista recurso disponível e crédito votado pela Câmara, salvo a que ocorrer por conta de crédito extraordinário, na forma da lei.
 
-**Art. 194.** Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados à Câmara Municipal, ser-lhe-ão entregues até o dia 20 (vinte) de cada mês corrente. (**Nova Redação dada pela Emenda nº 018, de 05.11.99**)
+~~**Art. 194.**~~
+
+**Art. 194.** Os recursos correspondentes às dotações orçamentárias, compreendidos os créditos suplementares e especiais, destinados à Câmara Municipal, ser-lhe-ão entregues até o dia 20 (vinte) de cada mês corrente. [(Redação dada pela Emenda nº 18, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00018-1999.md)
 
 ##### Seção V - Das Licitações
 
@@ -2937,16 +3174,24 @@ III - garantia pelo Poder Público de mecanismos de controle indispensáveis à 
 
 **§ 3º** O ensino fundamental público terá como fonte adicional de financiamento a contribuição social do salário-educação, recolhido, na forma da lei, pelas empresas que delas poderão deduzir a aplicação realizada no ensino fundamental para seus empregados e dependentes.
 
-**Art. 397.** Os recursos públicos municipais destinados à educação serão dirigidos exclusivamente à Rede de Ensino no Município.*
+~~**Art. 397.**~~
 
-**Parágrafo Único.** Às Escolas Filantrópicas ou Comunitárias, comprovadamente sem fins lucrativos, as entidades esportivas e as finalidades específicas constantes das seções II e III deste Capítulo, será destinado um percentual máximo de 2% (dois por cento) da receita de impostos, compreendida e proveniente de transferências, conforme dispuser a Lei Municipal. (**Nova Redação dada pela Emenda 003, de 20.04.92**)
+~~**Parágrafo Único.**~~
+
+**Art. 397.** Os recursos públicos municipais destinados à educação serão dirigidos exclusivamente à Rede de Ensino no Município.[(Redação dada pela Emenda à Lei Orgânica nº 3, de 1992)](/legislatura-1989-1992/1992/lei-organica/ELO-00003-1992.md)
+
+**Parágrafo Único.** Às Escolas Filantrópicas ou Comunitárias, comprovadamente sem fins lucrativos, as entidades esportivas e as finalidades específicas constantes das seções II e III deste Capítulo, será destinado um percentual máximo de 2% (dois por cento) da receita de impostos, compreendida e proveniente de transferências, conforme dispuser a Lei Municipal. [(Redação dada pela Emenda à Lei Orgânica nº 3, de 1992)](/legislatura-1989-1992/1992/lei-organica/ELO-00003-1992.md)
 
 **Art. 398.** O Município, na elaboração de seus planos de educação, considerará o Plano Nacional de Educação plurianual, visando à articulação e ao desenvolvimento de ensino, em seus diversos níveis e à integração das ações do Poder Público, que conduzem à:
 
 I - erradicação do analfabetismo;
+
 II - universalização do atendimento escolar;
+
 III - melhoria da qualidade de ensino;
+
 IV - formação para o trabalho;
+
 V - promoção humanística, científica e tecnológica do país.
 
 **Art. 399.** Serão fixados conteúdos mínimos para o ensino de 1º e 2º graus, em complementação regional àqueles a serem fixados pela Lei de Diretrizes e Bases da Educação Nacional, de modo a assegurar formação básica comum e respeito aos valores culturais e artísticos nacionais e latino-americanos.
@@ -2978,13 +3223,21 @@ V - promoção humanística, científica e tecnológica do país.
 **Art. 405.** O Município garantirá a todos o pleno exercício dos direitos culturais e o acesso às fontes de cultura nacional, estadual e municipal, e apoiará e incentivará a valorização das manifestações culturais, através de:
 
 I - articulações das ações governamentais no âmbito da cultura, da educação, dos desportos, do lazer e das comunicações;
+
 II - criação e manutenção de espaços públicos devidamente equipados e acessíveis à população para as diversas manifestações culturais, inclusive através do uso de próprios municipais, vedada a extinção de qualquer espaço cultural público ou privado sem criação, na mesma área, de espaço equivalente;
+
 III - estímulo à criação de bibliotecas na sede dos distritos e do Município, assim como atenção especial à aquisição de bibliotecas, obras de arte e outros bens particulares de valor cultural;
+
 IV - incentivo ao intercâmbio cultural com outros municípios fluminenses, o Estado e outras unidades da Federação;
+
 V - promoção do aperfeiçoamento e valorização dos profissionais da cultura, da criação artística, inclusive a cinematográfica;
+
 VI - proteção das expressões culturais, incluindo a indígena, afro-brasileira, e de outros participantes do processo cultural, bem como o artesanato;
+
 VII - proteção dos documentos, das obras e outros bens de valor histórico, artístico, cultural e científico, os monumentos, as paisagens naturais notáveis e os sítios arqueológicos, espeleológicos, paleontológicos e ecológicos;
+
 VIII - manutenção de suas instituições culturais devidamente dotadas de recursos humanos, materiais e financeiros, promovendo pesquisa, preservação, veiculação e ampliação dos seus acervos;
+
 IX - preservação, conservação e recuperação de bens nas cidades e sítios considerados instrumentos históricos e arquitetônicos.
 
 **Art. 406.** Fica criado o Conselho Municipal de Cultura, incumbido de regulamentar, orientar e acompanhar a política cultural do Município, que terá suas atribuições e composição definidas em lei, observando-se a representação das áreas de trabalhadores e empresários da cultura.
@@ -3004,7 +3257,9 @@ IX - preservação, conservação e recuperação de bens nas cidades e sítios 
 **Art. 409.** É dever do Município fomentar práticas desportivas formais e não formais, inclusive para pessoas portadoras de deficiências, como direito de cada um, observados:
 
 I - a autonomia das entidades desportivas dirigentes e associações, quando a sua organização e ao seu funcionamento;
+
 II - a destinação de recursos públicos à promoção prioritária do desporto educacional e, em casos específicos, para a do desporto amador;
+
 III - a proteção e o incentivo a manifestações esportivas.
 
 **§ 1º** O Município assegurará o direito ao lazer e à utilização criativa do tempo destinado ao descanso, mediante oferta de área pública para fins de recreação e execução de programas culturais e de projetos turísticos municipais.
@@ -3014,7 +3269,9 @@ III - a proteção e o incentivo a manifestações esportivas.
 **Art. 410.** O Poder Público incentivará as práticas desportivas através de:
 
 I - criação e manutenção de espaços adequados para a prática de esportes nas escolas e praças públicas;
+
 II - ações governamentais com vistas a garantir aos bairros a possibilidade de construírem e manterem espaços próprios para a prática de esportes;
+
 III - promoção, em conjunto com o Estado, outros municípios e entidades desportivas, de jogos e competições esportivas amadoras, regionais e estaduais, inclusive de alunos da rede pública.
 
 **Art. 411.** A Educação física é disciplinada curricular, regular e obrigatória nos ensinos fundamental e médio.
@@ -3080,16 +3337,29 @@ III - promoção, em conjunto com o Estado, outros municípios e entidades despo
 **Art. 426.** É dever do Município assegurar às pessoas portadoras de qualquer deficiência, a plena inserção na vida econômica e social e total desenvolvimento de suas potencialidades, obedecendo os seguintes princípios:
 
 I - proibir a adoção de critérios diferentes para a admissão, a promoção, a remuneração e a dispensa no serviço público municipal, garantindo-se a adaptação de provas, na forma da lei;
+
 II - assegurar as às pessoas portadoras de deficiência, o direito à assistência desde o nascimento, incluindo a estimulação precoce, a educação de 1º grau e profissionalizante, obrigatória e gratuita, sem limite de idade;
+
 III - garantir às pessoas portadoras de deficiências, o direito à habilitação e reabilitação com todos os equipamentos necessários;
+
 IV - com a participação estimulada de entidades não governamentais, prover a criação de programas de prevenção de doenças ou condições de deficiência física, sensorial ou mental; e de integração social do adolescente portador de deficiência, mediante treinamento para o trabalho e a convivência;
+
 V - elaborar lei que disponha sobre normas de construção dos logradouros e dos edifícios de uso público e de fabricação de veículos de transporte coletivo, a fim de garantir acesso adequado às pessoas portadoras de deficiência;
+
 VI - garantir às pessoas portadoras de deficiência física, pela forma que a lei estabelecer, a adoção de mecanismos capazes de assegurar o livre acesso aos veículos de transporte coletivo, aos cinemas, teatros e demais casas de espetáculo público;
+
 VII - instituir organismo deliberativo sobre a política de apoio à pessoa portadora de deficiência, assegurada a participação das entidades representativas das diferentes áreas de deficiência;
+
 VIII - assegurar a formação de recursos humanos, em todos os níveis especializados no tratamento, na assistência e na educação dos portadores de deficiência;
+
 IX - garantir o direito à informação e à comunicação, considerando-se as adaptações necessárias às pessoas portadoras de deficiência;
-X - conceder gratuidade nos transportes coletivos de empresas do Município para pessoas portadoras de deficiência, com reconhecida dificuldade de locomoção e seu acompanhante; (**Nova Redação dada pela Emenda nº 001, de 10.10.90**)
+
+~~X - conceder gratuidade nos transportes coletivos de empresas públicas do Município para pessoas portadoras de deficiência, com reconhecida dificuldade de locomoção e seu acompanhante;~~
+
+X - conceder gratuidade nos transportes coletivos de empresas do Município para pessoas portadoras de deficiência, com reconhecida dificuldade de locomoção e seu acompanhante; [(Redação dada pela Emenda à Lei Orgânica nº 1, de 1990)](/legislatura-1989-1992/1990/lei-organica/ELO-00001-1990.md)
+
 XI - regulamentar e organizar o trabalho das oficinas abrigadas para as pessoas portadoras de deficiência, enquanto estas não possam integrar-se no mercado de trabalho competitivo;
+
 XII - estabelecer obrigatoriedade de utilização de tecnologias e normas de segurança destinadas à prevenção de doenças ou condições que levem a deficiências.
 
 **Art. 427.** O Município promoverá, diretamente ou através de convênios, censos periódicos de sua população portadora de deficiência.
@@ -3264,7 +3534,13 @@ d) subdistrito de Cajueiros;
 
 **Art. 14.** A Mesa da Câmara Municipal, no prazo de 30 (trinta) dias a contar da promulgação desta Lei Orgânica, submeterá ao plenário, para votação e aprovação por maioria absoluta, o Quadro permanente dos servidores da Câmara, e o Quadro de cargos de confiança, que trata o Artigo 73 desta Lei Orgânica.
 
-**Art. 15** Revogado. (**Revogado pela Emenda nº 015, de 29.09.99**)
+~~**Art. 15.**~~
+
+~~**Parágrafo Único.**~~
+
+**Art. 15.** Revogado. [(Redação dada pela Emenda nº 15, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00015-1999.md)
+
+**Parágrafo Único.** Revogado. [(Redação dada pela Emenda nº 15, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00015-1999.md)
 
 **Art. 16.** As empresas públicas e sociedades de economia mista do Município, promoverão a adequação dos seus estatutos às disposições desta Lei Orgânica no prazo de 120 (cento e vinte) dias, a contar da data da sua promulgação.
 
@@ -3355,7 +3631,7 @@ XIII - Conselho Municipal de Direitos Humanos.
 
 **Parágrafo Único.** Os membros dos Conselhos não perceberão remuneração dos cofres públicos.
 
-**Art. 40.** (**Suprimido pela emenda 021 de 15.12.99**)
+**Art. 40.** [(Suprimido pela Emenda à Lei Orgânica nº 21, de 1999)](/legislatura-1997-2000/1999/lei-organica/ELO-00021-1999.md)
 
 **Art. 41.** o Poder Executivo do Município reavaliará todos os incentivos fiscais de natureza setorial ora em vigor, propondo ao Poder Legislativo as medidas cabíveis.
 
