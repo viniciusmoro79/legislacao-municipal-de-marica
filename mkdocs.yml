@@ -7,18 +7,18 @@ theme:
   logo: assets/logo.png
   favicon: assets/favicon.png
   features:
-    - navigation.instant         # Navegação mais rápida
-    - navigation.tracking        # Destaca seção atual
-    - navigation.tabs            # Tabs no topo
-    - navigation.tabs.sticky     # Tabs fixas ao rolar
-    - navigation.expand          # Expande árvore de navegação
-    - toc.follow                 # Sumário segue a rolagem
-    - content.code.copy          # Botão "copiar código"
-    - content.action.edit        # Botão "editar no GitHub"
-    - content.action.view        # Botão "ver no GitHub"
-    - search.suggest             # Sugestões automáticas
-    - search.highlight           # Realce na busca
-    - search.share               # Compartilhar termos buscados
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - toc.follow
+    - content.code.copy
+    - content.action.edit
+    - content.action.view
+    - search.suggest
+    - search.highlight
+    - search.share
   palette:
     - scheme: default
       primary: indigo
@@ -41,7 +41,6 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
-
   - pymdownx.extra
   - pymdownx.superfences
   - pymdownx.details
@@ -60,3 +59,6 @@ plugins:
   - search:
       lang: pt
       separator: '[\s\-\.]+'
+
+extra_javascript:
+  - assets/js/relative-links.js
