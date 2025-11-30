@@ -19,7 +19,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
-palette:
+  palette:
     - scheme: default
       primary: be1622       # vermelho para menu
       accent: 04b2e8        # azul para links
@@ -65,4 +65,4 @@ plugins:
   - search:
       lang: pt
       separator: '[\s\-\.]+'
-  - awesome-pages    
+  - awesome-pages  
